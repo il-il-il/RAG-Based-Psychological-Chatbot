@@ -1,7 +1,7 @@
-.env
-__pycache__
-.ipynb_checkpoints/
-*.pkl
-*.rar
-"data/" 
-"data.zip" 
+.env 
+__pycache__ 
+.ipynb_checkpoints/ 
+*.pkl 
+*.rar 
+data/ 
+data.zip 
