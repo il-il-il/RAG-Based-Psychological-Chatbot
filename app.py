@@ -8,7 +8,6 @@ from langchain_mistralai.chat_models import ChatMistralAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.memory import ConversationSummaryMemory
 
-
 # Set page
 st.set_page_config(page_title="Psychological Chatbot", layout="centered")
 
